@@ -1,0 +1,24 @@
+<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 2087327302">
+<path id="Ellipse 4938" d="M35 19C35 27.8366 27.8366 35 19 35C10.1634 35 3 27.8366 3 19C3 10.1634 10.1634 3 19 3C27.8366 3 35 10.1634 35 19Z" fill="#D6DCFF"/>
+<g id="Ellipse 4939" style="mix-blend-mode:color-burn" filter="url(#filter0_f_2433_16362)">
+<path d="M32.091 19.0003C32.091 26.2304 26.2299 32.0915 18.9998 32.0915C11.7698 32.0915 5.90869 26.2304 5.90869 19.0003C5.90869 11.7703 11.7698 5.90918 18.9998 5.90918C26.2299 5.90918 32.091 11.7703 32.091 19.0003Z" fill="url(#paint0_linear_2433_16362)"/>
+</g>
+<g id="Group 2085665339">
+<circle id="Ellipse 4953" cx="15.5165" cy="15.7225" r="1.22936" fill="#333538"/>
+<circle id="Ellipse 4954" cx="22.4838" cy="15.7225" r="1.22936" fill="#333538"/>
+<path id="Vector 10973" d="M17.5664 18.1807C18.0126 18.7991 19.211 19.665 20.4349 18.1807" stroke="#333538" stroke-width="1.15556" stroke-linecap="round"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_2433_16362" x="0.575358" y="0.575846" width="36.8488" height="36.8493" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.66667" result="effect1_foregroundBlur_2433_16362"/>
+</filter>
+<linearGradient id="paint0_linear_2433_16362" x1="13.9022" y1="0.514601" x2="25.0118" y2="29.825" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#4C62DE"/>
+</linearGradient>
+</defs>
+</svg>
